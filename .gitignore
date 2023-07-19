@@ -1,0 +1,9 @@
+# package directories
+node_modules
+jspm_packages
+csvFile
+functions/s3Config.js
+functions/pgConfig.js
+
+# Serverless directories
+.serverless
